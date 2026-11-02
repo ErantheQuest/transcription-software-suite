@@ -212,7 +212,7 @@ The app runs on almost anything, but the experience varies a lot.
 
 ---
 
-*transcription-software-suite · Updated 2026-11-01 · Shared under the MIT License*
+*transcription-software-suite · Updated 2026-11-02 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-01*
+*Last updated: 2026-11-02*
